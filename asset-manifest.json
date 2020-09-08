@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jhuttastore/static/css/main.d8c7dfc0.chunk.css",
+    "main.js": "/jhuttastore/static/js/main.7d515d1c.chunk.js",
+    "main.js.map": "/jhuttastore/static/js/main.7d515d1c.chunk.js.map",
+    "runtime-main.js": "/jhuttastore/static/js/runtime-main.98a9e6ac.js",
+    "runtime-main.js.map": "/jhuttastore/static/js/runtime-main.98a9e6ac.js.map",
+    "static/js/2.154e30dd.chunk.js": "/jhuttastore/static/js/2.154e30dd.chunk.js",
+    "static/js/2.154e30dd.chunk.js.map": "/jhuttastore/static/js/2.154e30dd.chunk.js.map",
+    "index.html": "/jhuttastore/index.html",
+    "precache-manifest.4b836b3e4fc6446cc15bac100e1541ae.js": "/jhuttastore/precache-manifest.4b836b3e4fc6446cc15bac100e1541ae.js",
+    "service-worker.js": "/jhuttastore/service-worker.js",
+    "static/css/main.d8c7dfc0.chunk.css.map": "/jhuttastore/static/css/main.d8c7dfc0.chunk.css.map",
+    "static/js/2.154e30dd.chunk.js.LICENSE.txt": "/jhuttastore/static/js/2.154e30dd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/jhuttastore/static/media/Manrope.980b9f32.ttf",
+    "static/media/shoe.png": "/jhuttastore/static/media/shoe.5cc9cd6d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a9e6ac.js",
+    "static/js/2.154e30dd.chunk.js",
+    "static/css/main.d8c7dfc0.chunk.css",
+    "static/js/main.7d515d1c.chunk.js"
+  ]
+}
