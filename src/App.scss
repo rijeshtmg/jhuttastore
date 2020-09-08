@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Manrope";
+  src: url("./assets/fonts/Manrope/Manrope.ttf");
+}
+
+@import "./assets/styles/variables.scss";
+@import "./assets/styles/project-framework";
+@import "./components/components";
+@import "./pages/Pages.scss";

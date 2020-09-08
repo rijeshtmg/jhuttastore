@@ -1,0 +1,47 @@
+header.main-header {
+  height: 4rem;
+  border-bottom: 0.075rem solid lighten($dark, 75%);
+  nav.main-nav {
+    .nav-link {
+      height: 4rem;
+      width: max-content;
+      padding: 0 1.5rem;
+      transition: background-color 0.25s ease-in-out;
+      &:hover {
+        background-color: lighten($dark, 85%);
+      }
+      .nav-link-text {
+        font-size: 0.9rem;
+      }
+      .nav-link-icon-cont {
+        padding: 0 2px;
+      }
+    }
+  }
+  .header-right-menus {
+    .cart-link,
+    .search-btn {
+      height: 4rem;
+      width: 4rem;
+      transition: background-color 0.25s ease-in-out;
+      &:hover {
+        background-color: lighten($dark, 85%);
+      }
+      .cart-icon,
+      .search-icon {
+        font-size: 1.15rem;
+      }
+    }
+    .right-menu-icon-cont {
+      height: 4rem;
+      width: 4rem;
+      border-bottom-left-radius: 1rem;
+      .right-menu-icon {
+        display: grid;
+        grid-template-rows: 4px 4px 4px;
+        grid-template-columns: 4px 4px 4px;
+        grid-gap: 3px;
+      }
+    }
+  }
+}
